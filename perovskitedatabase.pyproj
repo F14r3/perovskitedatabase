@@ -445,7 +445,7 @@
     <Content Include="dashboards\__pycache__\__init__.cpython-37.pyc" />
     <Content Include="Dockerfile" />
     <Content Include="logfile.txt" />
-    <Content Include="Materials Zone read me.txt" />
+    <Content Include="DeepVerse read me.txt" />
     <Content Include="OldFilesAndTests\bandgap\scripts_bandgap\SQ limit.csv" />
     <Content Include="OldFilesAndTests\bandgap\scripts_bandgap\__pycache__\bandgap.cpython-37.pyc" />
     <Content Include="OldFilesAndTests\bandgap\scripts_bandgap\__pycache__\SQ_limit.cpython-37.pyc" />
@@ -629,7 +629,7 @@
     <Content Include="Perovskite_webpage_version_1\static\img\Greco logo and EU flag.png" />
     <Content Include="Perovskite_webpage_version_1\static\img\GRECO logo nad EU flag.png" />
     <Content Include="Perovskite_webpage_version_1\static\img\HZB logo.png" />
-    <Content Include="Perovskite_webpage_version_1\static\img\materialszone_logo.png" />
+    <Content Include="Perovskite_webpage_version_1\static\img\deepverse_logo.png" />
     <Content Include="Perovskite_webpage_version_1\static\img\Perovsktie composition and performance version 2.png" />
     <Content Include="Perovskite_webpage_version_1\static\img\Project overview sketch version 4.png" />
     <Content Include="Perovskite_webpage_version_1\static\img\Stability version 2.png" />

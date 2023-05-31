@@ -1,5 +1,5 @@
 README.md
-This repository contains a simple example of a Materials Zone Bokeh project. It can be used as an initial template for creating your own project.
+This repository contains a simple example of a DeepVerse Perovskite project developed from Materials Zone.
 
 Project structure
 The project should have the following structure:
